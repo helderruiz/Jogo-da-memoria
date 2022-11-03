@@ -47,3 +47,11 @@
     color: rgba(56, 55, 55, 0.619);
     cursor: auto;
 }
+
+form span {
+    margin-top: 50px;
+}
+
+form span a {
+    color: #009578;
+}
